@@ -30,10 +30,9 @@ This tool is intended for authorized use only. Do not use it on websites you do 
 
 ## Installation
 
-### Option 1: Clone and Install Globally
-
 ```bash
-git clone https://github.com/rayan123321-sudo/webdoxer.git
+git clone https://github.com/VulnVex/webdoxer.git
 cd webdoxer
+pip install -r requirements.txt
 pip install . --break-system-packages
 webdoxer
