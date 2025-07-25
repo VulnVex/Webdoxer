@@ -3,7 +3,7 @@ echo "[*] Updating webdoxer..."
 
 
 if [ ! -d "/opt/webdoxer" ]; then
-git clone https://github.com/rayan123321-sudo/webdoxer
+git clone https://github.com/VulnVex/Webdoxer
 fi
 
 cd /opt/webdoxer || exit 1
